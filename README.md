@@ -46,5 +46,5 @@ Data Entry Officer | Lagos State Driving Institute (2023 - 2024)
 📢 Connect with Me
 	•	Portfolio: https://adewoletobi.netlify.app/
 	•	Email: tobiadewole43@gmail.com
-	•	LinkedIn: [Your LinkedIn Link]
+	•	LinkedIn: https://www.linkedin.com/in/blessing-dewole
 	•	Twitter: https://x.com/tobby_codes
