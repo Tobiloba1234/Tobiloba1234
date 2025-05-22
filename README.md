@@ -44,9 +44,7 @@ Data Entry Officer | Lagos State Driving Institute (2023 - 2024)
 	•	Soft Skills: Logical reasoning, analytical problem-solving, teamwork, active listening, and communication
 
 📢 Connect with Me
-	•	Portfolio: [Your Portfolio Link]
+	•	Portfolio: https://adewoletobi.netlify.app/
 	•	Email: tobiadewole43@gmail.com
 	•	LinkedIn: [Your LinkedIn Link]
-	•	WhatsApp: [Your WhatsApp Link]
-	•	Instagram: [Your Instagram Handle]
-	•	Twitter: [Your Twitter Handle]
+	•	Twitter: https://x.com/tobby_codes
